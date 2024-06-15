@@ -5,6 +5,11 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "labaN", "labaN\labaN.pyproj", "{0CEDDA1C-7CC4-4388-88BB-B11DF45E8534}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0695C2AB-B027-43DE-A022-7077A73D39E0}"
+	ProjectSection(SolutionItems) = preProject
+		1.py = 1.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

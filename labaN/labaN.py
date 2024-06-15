@@ -1,3 +1,3 @@
 #coding: cp1251
 print("оно работает!")
-print("1")
+print("1") #fhytyhtyj
