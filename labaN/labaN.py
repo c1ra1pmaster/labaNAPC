@@ -1,3 +1,3 @@
 #coding: cp1251
 print("оно работает!")
-#sggfdfgdfg
+print("1")
